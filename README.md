@@ -3,6 +3,10 @@
 An open-world wild west adventure that looks and plays like it fell out of an
 Atari 2600 cartridge, running entirely inside your terminal.
 
+<p align="center">
+<img width="448" height="405" alt="rattlesnake_ridge" src="https://github.com/user-attachments/assets/181c43f2-a565-4916-b953-d1dbd5007531" />
+</p>
+
 ```bash
 ./play.sh
 ```
